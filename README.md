@@ -1,5 +1,5 @@
 # my-brew
-My Homebrew management using `homebrew-bundle` and `mas`
+My Homebrew management using [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) and [mas](https://github.com/mas-cli/mas)
 
 # ファイルの意味
 - `Brewfile` : 個人PC で使うようのBrewfile
