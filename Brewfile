@@ -8,6 +8,7 @@ cask "xquartz"
 brew "autoconf"
 brew "boost"
 brew "cliclick"
+brew "colordiff"
 brew "dfu-programmer"
 brew "ffmpeg"
 brew "ghostscript", link: false
