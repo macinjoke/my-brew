@@ -1,4 +1,7 @@
 # my-brew
+**いったん、setting_files リポジトリの brewinstall.sh で運用することにしたので、このリポジトリの役目は終わり**
+
+
 My Homebrew management using [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) and [mas](https://github.com/mas-cli/mas)
 
 # SETUP
